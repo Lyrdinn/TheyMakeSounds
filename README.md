@@ -1,20 +1,17 @@
 <h1 align="center">  Earwyrm </h1>
 
 <p align="center">
-<img alt="Static Badge" height="20" src="https://camo.githubusercontent.com/434992c6203f9e654fbc93c53391e918eb9b4860e141ad10ae3cbbbdc5707c59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f556e6974792d6666666666663f7374796c653d666f722d7468652d6261646765266c6f676f3d756e697479266c6f676f436f6c6f723d303030303030">
-<img alt="Static Badge" height="20" src="https://camo.githubusercontent.com/114977ff12e90ff82ec9bb351facc6c3bb1d4738d48f0f06dd1e55e3e016dbf3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3935346139343f7374796c653d666f722d7468652d6261646765">
+<img alt="Static Badge" height="20" src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white">
+<img alt="Static Badge" height="20" src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white">
+<img alt="Static Badge" height="20" src="https://camo.githubusercontent.com/bcde4cc6f83d01fe3cd40fa8ef49342a169fc688b027ab0fd730cef60b8eb5b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d616465253230696e253230432532422532422d3264366562333f7374796c653d666c61742d737175617265266c6f676f3d63253242253242">
 <img alt="Static Badge" src="https://img.shields.io/badge/CNAM_ENJMIN-ea0000?style=flat-square">
 </p>
 
 
 <p align="center">
-  <img src="screenshots/Earwyrm0.png" width="400" title="Menu screen">
-</p>
-
-<p align="center">
-  <img src="screenshots/earwyrm1.png" width="350" title="In game screenshot">
-  <img src="screenshots/earwyrm2.png" width="350" title="In game screenshot">
-  <img src="screenshots/earwyrm3.png" width="350" title="In game screenshot">
+  <img src="screenshots/TMS1.png" width="350" title="In game screenshot">
+  <img src="screenshots/TMS2.png" width="350" title="In game screenshot">
+  <img src="screenshots/TMS3.png" width="350" title="In game screenshot">
 </p>
 
 
@@ -25,12 +22,19 @@
 They Make Sounds is a 3D exploration game where you play an archaeologist descending from the gigantic abyss to study the ruins of a mysterious civilization. 
 Equipped with ancient artifacts, make your way even deeper into the abyss to unravel the secrets of this mysterious civilization and discover how their story relates to yours.
   
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-For this game I realised : 
-- Action based gameplay using the State Machine pattern
-- Rythm synchronization using bpm signals from WWISE
-- Multiplayer using Unity's new input system
-- AIs with states machines and Unity's pathfinding
-- UI programming as well as acessibility features (infinite health, rythm assistance)
+Here is how I contributed to the project :
+
+- 🎮 Gameplay Programming
+I worked on traversal mechanics, including the zipline and vertical rope, implementing both the aiming and creation systems, as well as the physical movement of using them. <\br>
+To ensure smooth and responsive movement, I developed tools that allowed us to fine-tune traversal metrics. <\br>
+Additionally, I contributed to the rock-throwing mechanic and integrated our player’s animations.
+
+- 🖥️ UI Programming
+I implemented the game’s HUD and developed various accessibility and quality-of-life settings, such as control remapping, toggle options for hold vs. click interactions, video options, and more !
+
+- 🦻 Accessibility Features
+To make our game more inclusive, I implemented closed caption subtitles that are spatialized based on the direction of the sound source. <\br>
+Additionally, I created an icon-based system and control reminders to further assist players in navigating the game.
+
   
 </p>
