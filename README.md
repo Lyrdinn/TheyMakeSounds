@@ -18,6 +18,8 @@
 
 <h2> 🎮 Itch.io Page https://theymakesounds.itch.io/they-make-sounds  </h2>
 
+[📄 Document that detailed our project's risk for movement based artifacts](./RiskDocumentation.pdf)
+
 They Make Sounds is a 3D exploration game where you play an archaeologist descending from the gigantic abyss to study the ruins of a mysterious civilization. 
 Equipped with ancient artifacts, make your way even deeper into the abyss to unravel the secrets of this mysterious civilization and discover how their story relates to yours.
   
