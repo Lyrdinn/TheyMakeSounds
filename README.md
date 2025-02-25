@@ -1,4 +1,4 @@
-<h1 align="center">  Earwyrm </h1>
+<h1 align="center">  They Make Sounds </h1>
 
 <p align="center">
 <img alt="Static Badge" height="20" src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white">
