@@ -2,16 +2,15 @@
 
 <p align="center">
 <img alt="Static Badge" height="20" src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white">
-<img alt="Static Badge" height="20" src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white">
 <img alt="Static Badge" height="20" src="https://camo.githubusercontent.com/bcde4cc6f83d01fe3cd40fa8ef49342a169fc688b027ab0fd730cef60b8eb5b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d616465253230696e253230432532422532422d3264366562333f7374796c653d666c61742d737175617265266c6f676f3d63253242253242">
 <img alt="Static Badge" src="https://img.shields.io/badge/CNAM_ENJMIN-ea0000?style=flat-square">
 </p>
 
 
 <p align="center">
-  <img src="screenshots/TMS1.png" width="350" title="In game screenshot">
-  <img src="screenshots/TMS2.png" width="350" title="In game screenshot">
-  <img src="screenshots/TMS3.png" width="350" title="In game screenshot">
+  <img src="screenshots/TMS1.jpg" width="350" title="In game screenshot">
+  <img src="screenshots/TMS2.jpg" width="350" title="In game screenshot">
+  <img src="screenshots/TMS3.jpg" width="350" title="In game screenshot">
 </p>
 
 
