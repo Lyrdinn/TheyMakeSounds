@@ -23,8 +23,10 @@
 
 They Make Sounds is a 3D exploration game where you play an archaeologist descending from the gigantic abyss to study the ruins of a mysterious civilization. 
 Equipped with ancient artifacts, make your way even deeper into the abyss to unravel the secrets of this mysterious civilization and discover how their story relates to yours.
+
+I worked alongside [Théophile Carrasco ](https://github.com/EyeCrown) who was the technical programmer on this project !
   
-Here is how I contributed to the project :
+Here is how I contributed :
 
 - 🎮 Gameplay Programming : <br>
 I worked on traversal mechanics, including the zipline and vertical rope, implementing both the aiming and creation systems, as well as the physical movement of using them.
